@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--
-**TuanNghiaFunPie/TuanNghiaFunPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I’m focused on becoming a Data Engineer, building scalable data systems and pipelines that turn raw data into real value.
 
 My core stack revolves around Python, SQL, and modern data tools like Apache Spark and Airflow.
@@ -15,10 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building data pipelines and small-scale data systems
 - 🌱 I’m currently learning Data Engineering with a focus on Python, SQL, and distributed processing tools
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: nguyentuannghiafp@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy building things from scratch
--->
