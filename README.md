@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Engineering with a focus on Python, SQL, and distributed processing tools
 - 📫 How to reach me: nguyentuannghiafp@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy building things from scratch
+- ⚡ Fun fact: I enjoy building things from scratch and going to the gym  
